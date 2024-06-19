@@ -1,0 +1,1 @@
+export const INIT_SIDER_W = 200
